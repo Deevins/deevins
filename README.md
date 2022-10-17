@@ -238,9 +238,6 @@
   </tr> 
 </table>
 
-## :package: Packages
-- [lodash-omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
-
 ## :comet: Contact
 <a href="#deevins-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deevins&show_icons=true&locale=en&layout=compact&theme=react" alt="deevins" />
@@ -248,5 +245,5 @@
 
 - :comet: &nbsp;**[Github](https://github.com/deevins)**
 - :airplane: &nbsp;**[Telegram](https://t.me/Deevinss)**
-
+- 
 <br>
