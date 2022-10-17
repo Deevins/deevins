@@ -92,12 +92,6 @@
       </a>
       <br>Prettier
     </td>
-   <td align="center"  width="96">
-      <a href="#deevins-stack">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="48" height="48" alt="Cypress" />
-      </a>
-      <br>Cypress
-    </td>
     <td align="center" width="96"> 
       <a href="#deevins-stack">
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
@@ -147,12 +141,6 @@
       </a>
       <br>MUI
     </td>
-   <td align="center"  width="96">
-      <a href="#deevins-stack">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
    <td align="center" width="96">
       <a href="#deevins-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
@@ -173,24 +161,12 @@
       </a>
       <br>Html5
     </td>
-     <td align="center" width="96"> 
-      <a href="#deevins-stack">
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="48" height="48" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
     <td align="center" width="96"> 
       <a href="#deevins-stack">
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
-    <td align="center" width="96"> 
-      <a href="#deevins-stack">
-        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
     <td align="center" width="96">
       <a href="#deevins-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
@@ -252,12 +228,6 @@
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
-    </td>
-      <td align="center" width="96"> 
-      <a href="#deevins-stack">
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="48" height="48" alt="Prisma" />
-      </a>
-      <br>Prisma
     </td>
       <td align="center" width="96"> 
       <a href="#deevins-stack">
