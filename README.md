@@ -1,5 +1,5 @@
 <a href="https://github.com/deevins">
-  <img src="https://raw.githubusercontent.com/wiki/deevins/deevins/monotrain.jpg" alt="
+  <img src="https://raw.githubusercontent.com/wiki/deevins/deevins/monotrain2.jpg" alt="
       train" align="center"/>
 </a>
 
