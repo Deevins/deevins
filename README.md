@@ -229,12 +229,6 @@
       </a>
       <br>Firebase
     </td>
-      <td align="center" width="96"> 
-      <a href="#deevins-stack">
-        <img src="https://trpc.io/img/logo.svg" width="48" height="48" alt="tRPC" />
-      </a>
-      <br>tRPC
-    </td>
   </tr> 
 </table>
 
@@ -245,5 +239,5 @@
 
 - :comet: &nbsp;**[Github](https://github.com/deevins)**
 - :airplane: &nbsp;**[Telegram](https://t.me/Deevinss)**
-- 
+
 <br>
